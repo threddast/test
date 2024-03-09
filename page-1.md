@@ -15,3 +15,15 @@ test this code
 {% content-ref url="https://app.gitbook.com/o/ffqOArguYj9F5RLpVgmf/s/1cMDAADiXGvQgDwIymlw/" %}
 [HR private](https://app.gitbook.com/o/ffqOArguYj9F5RLpVgmf/s/1cMDAADiXGvQgDwIymlw/)
 {% endcontent-ref %}
+
+<figure><img src=".gitbook/assets/egiorgis-picture.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
+***
+
+<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+
+|      |        |      |
+| ---- | ------ | ---- |
+| some | stuff  | here |
+|      |        |      |
+|      |        |      |
