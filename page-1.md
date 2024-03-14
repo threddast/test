@@ -27,3 +27,16 @@ test this code
 | some | stuff  | here |
 |      |        |      |
 |      |        |      |
+
+{% @linear/embed url="https://linear.app/richfox/issue/RIC-1/welcome-to-linear-%F0%9F%91%8B" issueId="RIC-1" %}
+
+<img src=".gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
+
+this $$\sqrt{3}$$
+
+
+
+```mermaid
+graph TD
+  Mermaid --> Diagram
+```
